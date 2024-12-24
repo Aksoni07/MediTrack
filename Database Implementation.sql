@@ -1,5 +1,5 @@
 /*
-														Project: MediCare : Hospital Management
+														Project: MediTrack - Hospital Management
 														Team Member: Ashish
 
 
