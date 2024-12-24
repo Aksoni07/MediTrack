@@ -40,8 +40,3 @@ The main purpose of the system is to:
 * Specify which table is on the one side of the relationship by placing a one next to the field where the line starts.
 * Specify which table is on the many side of the relationship by placing a crow’s feet symbol next to the field where the line ends. 
 
-
-# ER Diagram:
-
-![](https://github.com/anwesh90/Hospital-Management-System/blob/master/ERD/Physical_DataModel.png)
-
