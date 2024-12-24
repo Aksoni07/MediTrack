@@ -1,6 +1,6 @@
 /*
-														Project: Hospital Management
-														Team Member: Anwesh Praharaj
+														Project: MediCare : Hospital Management
+														Team Member: Ashish
 
 
 	A. CREATE DATABASE
